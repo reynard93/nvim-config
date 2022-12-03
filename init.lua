@@ -14,3 +14,6 @@ require("josean.plugins.lsp.null-ls")
 require("josean.plugins.autopairs")
 require("josean.plugins.treesitter")
 require("josean.plugins.gitsigns")
+
+-- personal plugins and configs
+require("reynard.core.options")
