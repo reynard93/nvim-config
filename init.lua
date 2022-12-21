@@ -1,3 +1,4 @@
+require("kickstart.init")
 require("josean.plugins-setup")
 require("josean.core.options")
 require("josean.core.keymaps")
@@ -17,3 +18,4 @@ require("josean.plugins.gitsigns")
 
 -- personal plugins and configs
 require("reynard.core.options")
+require("reynard.core.keymaps")
